@@ -57,3 +57,5 @@ Day 2
 - startēt procesus ar &
 - uname operētājsistēmas nosaukums
 - kill (procesa name) un izslēgs to
+- git add .
+- izveidot texta failus linux un paskatīties par scriptiem
