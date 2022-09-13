@@ -17,11 +17,11 @@ Konkrēta atrašanās vieta
 User@epk428-0:~$
 Tilde (~) norāda uz home directory
 Pwd = powerdirectory (kur whoami atrodās)
-Ls ir list redzamo objektu saraksts
-Lai beigtu skatīties listu ar komandām pēc tab nospiešanas izmanto q
+- Ls ir list redzamo objektu saraksts
+- Lai beigtu skatīties listu ar komandām pēc tab nospiešanas izmanto q
 - Man ls kkadas komandas
 - echo $0 komunikācijas veids ar linux
-- ls -l
+- ls -l 
 - rwx read write execute
 - saimnieka tiesibas, saimnieka grupas tiesibas, pasaules tiesības drwxr-xr-x
 - linux paslept lietas dara ar .pirms kaut kaa
@@ -30,13 +30,13 @@ Lai beigtu skatīties listu ar komandām pēc tab nospiešanas izmanto q
 ### jaunu folder izveida ###
 - mkdir (folder name)
 Tajā jau būs fails . Un ..
-### jaunu failu veidošana ###
-(Nano)
--Nano izveidot un rediģēt failu
--Cat izvadīt/izlasīt faila sastāvu
--Rm (fail name) remove
-# Git clone links #
-Izmantojot cat komandu var ieraudzīt sastāvu
+### darbības ar failiem ###
+- win nezinu
+- Nano (file name) izveidot un rediģēt failu
+- Cat (file name) izvadīt/izlasīt faila sastāvu
+- Rm (file name) remove
+# Git  clone links #
+- git clone (links uz 
 Piemērs ar srakstu
 - 👋 Hi, I’m @Valers0412
   - test
@@ -51,3 +51,9 @@ To do list
 Valers0412/Valers0412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Day 2
+- manuāls man
+- startēt procesus ar &
+- uname operētājsistēmas nosaukums
+- kill (procesa name) un izslēgs to
