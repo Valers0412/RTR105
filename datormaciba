@@ -1,0 +1,9 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  ps -aux | grep firefox
+    5  kill 2728
+    6  ps -aux | grep firefox
+    7  firefox &
+    8  history
+    9  history > history_20220913a.txt
