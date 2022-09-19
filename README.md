@@ -59,3 +59,6 @@ Day 2
 - kill (procesa name) un izslēgs to
 - git add .
 - izveidot texta failus linux un paskatīties par scriptiem
+Idk what day..
+- lai izveidotu failus --> izmanto $ cat > "filename.txt" 
+- vai izmantojot teksta rediģētāju nano raksta  https://linuxize.com/post/how-to-use-nano-text-editor/ 
