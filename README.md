@@ -62,3 +62,22 @@ Day 2
 Idk what day..
 - lai izveidotu failus --> izmanto $ cat > "filename.txt" 
 - vai izmantojot teksta rediģētāju nano raksta  https://linuxize.com/post/how-to-use-nano-text-editor/ 
+Day idk who
+- šunā 0/1 viens bit
+- byte --> 8 bit
+- kb --> 1024 bit
+### Kas ir komanda ###
+Komanda ir izpildāmā faila nosaukums kas tiek sameklēts izpildāmo mapju sarakstā 
+Pārskatāmās failu mapes where is 
+- echo $PATH
+Majasdarbins ar repozitoriju izvilkšanu uz mājām 
+- history > failanosaukums.txt
+Scriptu rakstīšana izmantojot nano
+-nano faila nosaukums
+Pirmais komentārs #!/bin/bash
+- git config --global user.name username
+- git commit -m "nosaukums"
+- git push origin main
+Tiesību piešķiršana
+- chmod 111 110 100 (rwxrw-r--) 764
+
