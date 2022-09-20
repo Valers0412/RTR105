@@ -16,3 +16,52 @@
    16  pwd
    17  history
    18  history > history_20220920.txt
+   19  ls -lt
+   20  nano git upload
+   21  nano git-upload
+   22  cat git-upload 
+   23  /home/user/Valers0412/git-upload
+   24  ls -lt git-upload 
+   25  chmod 764 git-upload 
+   26  ls -lt git-upload 
+   27  echo $PATH
+   28  /home/user/Valers0412/git-upload
+   29  Valers0412
+   30  ./git-upload 
+   31  nano git-upload 
+   32  ./git-upload 
+   33  nano git-upload 
+   34  ./git-upload 
+   35  nano git-upload 
+   36  ./git-upload 
+   37  nano git-upload 
+   38  ./git-upload 
+   39  ls
+   40  nano git-upload 
+   41  ./git-upload 
+   42  git pull
+   43  ./git-upload 
+   44  cd
+   45  pwd
+   46  rm -rf Valers0412/
+   47  LS -LT
+   48  ls -lt
+   49  pwd
+   50  /home/user/Downloads/
+   51  cd /home/user/Downloads/
+   52  ls -l
+   53  cd
+   54  pwd
+   55  ls -lt
+   56  pwd
+   57  ls -lt
+   58  history | grep clone
+   59  git clone https://github.com/Valers0412/Valers0412
+   60  pwd
+   61  ls -lt
+   62  cd Valers0412/
+   63  ls -lt
+   64  echo $PATH
+   65  PATH=$PATH:./
+   66  echo $PATH
+   67  history > history_20220920.txt 
