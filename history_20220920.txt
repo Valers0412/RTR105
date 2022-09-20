@@ -1,0 +1,18 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whereis ls
+    4  pwd
+    5  ls
+    6  ls -lt
+    7  cd /bin
+    8  ls
+    9  cat ls
+   10  cd ~
+   11  git clone https://github.com/Valers0412/Valers0412
+   12  ls -lt
+   13  cd Valers0412
+   14  ls
+   15  ls -l
+   16  pwd
+   17  history
+   18  history > history_20220920.txt
