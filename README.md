@@ -9,9 +9,9 @@
 - [ ] izveidot texta failus linux un paskatīties par scriptiem  
 ## Satura rādītājs ##
 - [Basic knowledge](https://github.com/Valers0412/Valers0412/edit/main/README.md#piem%C4%93ri-ar-sarakstiem) 
-- [New folder]()
-- [Git clone]()
-- [What are commands]()
+- [New folder](https://github.com/Valers0412/Valers0412#darbības-ar-failiem)
+- [Git clone](https://github.com/Valers0412/Valers0412#git--clone-links)
+- [What are commands](https://github.com/Valers0412/Valers0412#kas-ir-komandas)
 - [References](https://github.com/Valers0412/Valers0412/edit/main/README.md#my-refernces) 
 - [3.sadaļa]()
 
