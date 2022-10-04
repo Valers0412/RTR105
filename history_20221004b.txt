@@ -1,0 +1,87 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Valers0412/Valers0412
+    4  ls -lt
+    5  cd Valers0412/
+    6  mkdir Class_07
+    7  ls
+    8  cd Class_07/
+    9  nano printf.c
+   10  ls -lt
+   11  chmod 764 printf.c 
+   12  LS -LT
+   13  ls -lt
+   14  gcc printf.c 
+   15  ls- lt
+   16  ls -lt
+   17  rm -f printf.c 
+   18  ls -lt
+   19  nano printf.c
+   20  gcc printf.c 
+   21  chmod 764 printf.c 
+   22  ls -lt
+   23  cd ./a.out
+   24  ./a.out
+   25  nano scanf.c
+   26  gcc scanf.c 
+   27  chmod 764 scanf.c 
+   28  ls -lt
+   29  ./a.out
+   30  chmod 644 printf.c 
+   31  chmod 644 scanf.c 
+   32  ls -lt
+   33  cat scanf.c 
+   34  cat printf.c 
+   35  ./a.out 
+   36  fqef
+   37  ls -lt
+   38  rm a.out 
+   39  gcc scanf.c -o scanf.out
+   40  gcc printf.c -o printf.out
+   41  ls -lt
+   42  ./printf.out 
+   43  ./scanf.out 
+   44  cd ..
+   45  ls -lt
+   46  nano .gitignore
+   47  history > history_20221003.txt 
+   48  ./git-upload 07
+   49  nano git-upload
+   50  ./git-upload 07
+   51  ls -lt
+   52  mkdir Class_08
+   53  cd Class_08/
+   54  pwd
+   55  cd ..
+   56  cd Class_07/
+   57  ls -lt
+   58  ./printf.out 
+   59  cat printf.c
+   60  nano printf.c
+   61  gcc printf.c -o printf.out
+   62  ./printf.out 
+   63  cat printf.c
+   64  nano printf.c
+   65  gcc printf.c -o printf.out
+   66  ./printf.out 
+   67  nano testSome.c
+   68  gcc testSome.c -o testSome.out
+   69  nano testSome.c 
+   70  gcc testSome.c -o testSome.out
+   71  nano testSome.c 
+   72  gcc testSome.c -o testSome.out
+   73  nano printf.c
+   74  nano testSome.c 
+   75  gcc testSome.c -o testSome.out
+   76  nano printf.c
+   77  nano testSome.c 
+   78  gcc testSome.c -o testSome.out
+   79  ./testSome.out 
+   80  nano testSome.
+   81  ls -lt
+   82  nano testSome.c
+   83  gcc testSome.c -o testSome.out
+   84  ./testSome.out 
+   85  history
+   86  cd ..
+   87  history > history_20221004b.txt
