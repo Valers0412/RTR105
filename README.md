@@ -78,16 +78,16 @@ Pirmais komentārs #!/bin/bash
 - chmod 111 110 100 (rwxrw-r--) 764
 
 #Programmēšanas uzdevumi#
-#include <stdio.h>
-
-int main() 
-{
-    long long int a, b, c;
-    printf("ievadi 400000:\n");
-    scanf("%lli", &a); 
-    printf("ievadi 100000:\n");
-    scanf("%lli", &b); 
-    c = a * b;
-    printf("%lli\n", c);
-    return 0;
-}
+#include <stdio.h>  
+  
+int main()   
+{  
+    long long int a, b, c;  
+    printf("ievadi 400000:\n");  
+    scanf("%lli", &a);   
+    printf("ievadi 100000:\n");  
+    scanf("%lli", &b);   
+    c = a * b;  
+    printf("%lli\n", c);  
+    return 0;  
+}  
