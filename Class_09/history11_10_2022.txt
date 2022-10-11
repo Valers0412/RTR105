@@ -1,0 +1,48 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -lt
+    4  git clone https://github.com/Valers0412/Valers0412
+    5  cd Valers0412/
+    6  mkdir Class_09
+    7  ls -lt
+    8  cd Class_07
+    9  ls -lt
+   10  cd Class_09
+   11  cd ..
+   12  cd Class_09\
+   13  ls -lt
+   14  ls -a
+   15  cd
+   16  cd Valers0412/
+   17  ls -lt
+   18  ls -at
+   19  ls -alt
+   20  cat .gitignore 
+   21  L
+   22  echo $PATH
+   23  cd Class_09
+   24  nano char_data_type.c
+   25  cat char_data_type.c 
+   26  gcc char_data_type.c -o char_data_type.out
+   27  nano char_data_type.c
+   28  cat char_data_type.
+   29  cat char_data_type.c
+   30  gcc char_data_type.c -o char_data_type.out
+   31  ls -lt
+   32  ./char_data_type.out 
+   33  man echo
+   34  nano char_data_type.c
+   35  cntrl + k
+   36  cntrl + u
+   37  nano char_data_type.c
+   38  fg
+   39  gcc char_data_type.c -o char_data_type.out
+   40  ./char_data_type.out 
+   41  nano char_data_type.c
+   42  gcc char_data_type.c -o char_data_type.out
+   43  ./char_data_type.out 
+   44  nano char_data_type.c
+   45  gcc char_data_type.c -o char_data_type.out
+   46  ./char_data_type.out 
+   47  /tatusmatrix
+   48  history > history11_10_2022.txt
