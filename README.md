@@ -77,7 +77,9 @@ Pirmais komentārs #!/bin/bash
 ### Tiesību piešķiršana ###
 - chmod 111 110 100 (rwxrw-r--) 764
 
-# Programmēšanas uzdevumi #  
+## Programēšanas uzdevumi ##  
+
+1. PU (40 000 000)  
 #include <stdio.h>  
   
 int main()   
