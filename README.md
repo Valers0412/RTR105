@@ -97,13 +97,13 @@ int main()
 #include "stdio.h"
 
 int main(void) {
-  printf("ievadi skaitli\n");
-  unsigned char c1; //piem 8 = 0000 1000
-  scanf("%c",&c1);
-  for (char i = 0; i<=7;i++){
-    c1 = (unsigned char)(c1 << i); // 
-    c1 = (unsigned char)(c1 >> 7);
-    printf("%d", &c1);
-  }
-  return 0;
-}
+  printf("ievadi skaitli\n");  
+  unsigned char c1; //piem 8 = 0000 1000  
+  scanf("%c",&c1);  
+  for (char i = 0; i<=7;i++){  
+    c1 = (unsigned char)(c1 << i); //   
+    c1 = (unsigned char)(c1 >> 7);  
+    printf("%d", &c1);  
+  }  
+  return 0;  
+}  
