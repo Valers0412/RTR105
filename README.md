@@ -79,8 +79,8 @@ Pirmais komentārs #!/bin/bash
 
 ## Programēšanas uzdevumi ##  
 
-1. PU (40 000 000)  
-#include <stdio.h>  
+### 1. PU (40 000 000)  ###  
+#include "stdio.h"  
   
 int main()   
 {  
@@ -93,3 +93,17 @@ int main()
     printf("%lli\n", c);  
     return 0;  
 }  
+### 2. PU dec2bin ###  
+#include "stdio.h"
+
+int main(void) {
+  printf("ievadi skaitli\n");
+  unsigned char c1; //piem 8 = 0000 1000
+  scanf("%c",&c1);
+  for (char i = 0; i<=7;i++){
+    c1 = (unsigned char)(c1 << i); // 
+    c1 = (unsigned char)(c1 >> 7);
+    printf("%d", &c1);
+  }
+  return 0;
+}
