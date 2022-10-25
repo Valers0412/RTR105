@@ -1,0 +1,8 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano factorial_for.c 
+    4  gcc -g factorial_for.c 
+    5  gbd a.out 
+    6  gdb a.out 
+    7  cd ..
+    8  history > history_20221025.txt
