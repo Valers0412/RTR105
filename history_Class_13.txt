@@ -1,0 +1,64 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -lt
+    4  git clone htpps://github.com/Valers0412/Valers0412/
+    5  git clone https://github.com/Valers0412/Valers0412
+    6  ls -lt
+    7  cd Valers0412/
+    8  ls -lt
+    9  mkdir Class_13
+   10  cd Class_13
+   11  nano userfunction.c
+   12  gcc userfunction.c -o userfunction.out
+   13  nano userfunction.c 
+   14  gcc userfunction.c -o userfunction.out
+   15  gcc -g userfunction.c
+   16  
+   17  nano userfunction.c 
+   18  gcc userfunction.c -o userfunction.out
+   19  nano userfunction.c 
+   20  gcc userfunction.c -o userfunction.out
+   21  nano userfunction.c 
+   22  gcc userfunction.c -o userfunction.out
+   23  nano userfunction.c 
+   24  gcc userfunction.c -o userfunction.out
+   25  nano userfunction.c 
+   26  gcc userfunction.c -o userfunction.out
+   27  nano userfunction.c 
+   28  gcc userfunction.c -o userfunction.out
+   29  ./userfunction.out 
+   30  nano userfunction.c 
+   31  gcc userfunction.c -o userfunction.out
+   32  nano userfunction.c 
+   33  gcc userfunction.c -o userfunction.out
+   34  ./userfunction.out 
+   35  nano userfunction.c 
+   36  gcc userfunction.c -o userfunction.out
+   37  ./userfunction.out 
+   38  nano userfunction.c 
+   39  gcc userfunction.c -o userfunction.out
+   40  ./userfunction.out 
+   41  nano userfunction.c 
+   42  gcc userfunction.c -o userfunction.out
+   43  ./userfunction.out 
+   44  nano userfunction.c 
+   45  nano main_with_arguments.c
+   46  gcc main_with_arguments.c 
+   47  ./a.out 
+   48  cp a.out aaaa.out
+   49  ./aaaa.out 
+   50  ./aaaa.out 3
+   51  ls -lt
+   52  rm -rf aaaa.out 
+   53  ls -lt
+   54  nano main_with_arguments.c
+   55  gcc main_with_arguments.c 
+   56  ./a.out 46 67
+   57  nano main_with_arguments.c
+   58  ./a.out 46 65
+   59  nano main_with_arguments.c
+   60  ./a.out 46 65
+   61  nano main_with_arguments.c
+   62  cd ..
+   63  ls -lt
+   64  history > history_Class_13.txt
