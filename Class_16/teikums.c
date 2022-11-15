@@ -18,14 +18,14 @@ pc = &d; printf("%d", *pc); // Ouptut: -15
 
 //mainīgie
 char burts;
-char burti = {0};
+char burti[] = {0};
 char adrese;
 char t[N];
+char alfabets = 97;
 
 //ja ascii kods  ir no lielajiem burtiem -65
 //ja ascii kods ir no mazajiem -97
 void teikums_print(char t[]);
-
 int main(){
    printf("Lūdzu ievadiet teikumu!: \n");
    fgets(t, sizeof(t), stdin);
@@ -38,19 +38,19 @@ int main(){
 	  burti[adrese] = burti[adrese]+1;
        }
 
-       if((t[i]>='a')&&(t[i]<='z')
+       if((t[i]>='a')&&(t[i]<='z'))
        {
 	  adrese = t[i] - 97;
 	  burti[adrese] = burti[adrese]+1;
        }
-       for()
-       {
-	  ;
-       }
 //    burts = t[i];
 //    printf("%c\n", burts);
    }
-
+   for(int j = 0; j<26; j++)
+   {
+      printf("\nburta %c skaits teikumā: %d \n",alfabets,burti[j]);
+      alfabets = alfabets+1;
+   }
   // scanf("%s", t);
   // printf("%s", t);
    return 0;
