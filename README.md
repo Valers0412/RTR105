@@ -108,3 +108,49 @@ int main(void) {
   return 0;  
 }  
 ### 3. PU if + simple sort ###  
+#include "stdio.h"
+
+int main(void){  
+  int a, b, c;  
+  int sort = 2;  
+  printf("Lūduzu ievadi trīs decimālus skaitļus:\n");  
+  scanf("%d", &a);  
+  scanf("%d", &b);  
+  scanf("%d", &b);  
+  
+  printf("ievadītie skaitļi %d, %d un %d\n",a, b, c);  
+  
+  printf("Ivēlieties kārtošanas secību:\n");  
+  printf("spiediet 1, lai kārtotu augošā secībā,\nspiediedt 0, lai kārtotu dilstošā secībā\n");  
+    
+  scanf("%d", &sort);  
+  
+  if(sort==1){  
+    if((a>b)&(a>c)){  
+      printf("%d\n",a);   
+      if(b>=c){  
+        printf("%d\n%d\n",b,c);  
+      }   
+      else{  
+        printf("%d\n%d\n",c,b);  
+      }  
+    }   
+    else if ((b>a)&(b>c)){  
+      printf("%d\n",a);  
+      if(a>=c){  
+        printf("%d\n%d\n",a,c);  
+      } else{  
+        printf("%d\n%d\n",c,a);  
+      }  
+    }  
+    else if ((c>a)&(c>b)){  
+      printf("%d\n",a);  
+      if(a>=b){  
+        printf("%d\n%d\n",a,b);  
+      } else{  
+          printf("%d\n%d\n",b,a);  
+        }  
+    }  
+  }  
+  return 0;   
+}  
