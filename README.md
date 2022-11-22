@@ -107,3 +107,4 @@ int main(void) {
   }  
   return 0;  
 }  
+### 3. PU if + simple sort ###  
