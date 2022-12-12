@@ -154,7 +154,7 @@ int main(void){
   }  
   return 0;   
 }  
-### PU 5 while + factorial ###  
+### 4. PU while + factorial ###  
 /*
 Uzrakstiet kodu dialogam ar lietotāju. Lietotājam ir jāievada viens decimāls skaitlis, lietotājam ir jāizvēlas datu tips - char, int vai long long. Aprēķiniet un paziņojiet lietotājam viņa ievadīta skaitļa faktoriāla vērtība vai paziņojiet, ka ievadītam skaitlim ar izvēlētu datu tipu pareizi aprēķināt faktoriālu nav iespējams. Aprēķinam izmantojiet while ciklu. Aprēķins ir jāpārtrauc uzreiz, tik ko tas kļūst nepareizs (lai nav jātērē laiks). Nedrīkst izmantot datu tipu robežu konstantes, nedrīkst salīdzināt faktoriāla vērtību ar nulli, nedrīkst pārbaudīt faktoriāla vērtības zīmi, nedrīkst izmantot datu tipu savādāku nekā lietotājs ir izvēlējies. Risinājuma kodu augšupielādējiet GitHub vietnē Jūsu RTR105 repozitorijā, šeit iekopējiet risinājuma koda adresi.
 */
