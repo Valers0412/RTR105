@@ -37,7 +37,7 @@ int main(void) {
   float f;
   while(a<b){
     f = cosh(a);
-    fprintf(pFile,"%.3f %.3f %.3f\n", a, f, (cosh(a+acc)-(cosh(a)))/acc);
+    fprintf(pFile,"%.3f %.3f %.3f %.3f %.3f %.3f\n", a, f, sinh(a), (cosh(a+acc/2)-(cosh(a-acc/2)))/acc, cosh(a), (sinh(a+acc/2)-(sinh(a-acc/2)))/acc);
     a = a + acc;
     }
   fclose(pFile);
