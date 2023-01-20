@@ -33,13 +33,13 @@ int main() {
   median(t, size);
   moda(t, size);
 
-  // Print the sorted symbols a
+  // Sakārtoti simboli
   for (int i = 0; i < size; i++) {
     fprintf(stdout, "%c ", t[i]);
   }
   fprintf(stdout, "\n");
 
-  // Print the sorted ASCII integer values
+  // ASCII tabulas vērtības
   for (int i = 0; i < size; i++) {
     fprintf(stdout, "%d ", t[i]);
   }
