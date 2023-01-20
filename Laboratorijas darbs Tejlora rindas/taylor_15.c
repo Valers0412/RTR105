@@ -42,9 +42,9 @@ double mans_cosh(double x){//funkcija ļoti strauji pieaug
     S = S + a;
     //printf(" cosh(%.2f) = %.5f\n", x, S);
         if(k==499){
-            fprintf(stdout, "Parciālsummas loceklis a(%d) = %e\n", k, a);
+            fprintf(stdout, "Parciālsummas loceklis a(%d) = %Le\n", k, a);
         }
     }
-printf("Parciālsummas loceklis a(%d) = %e\n\n", k, a);
+printf("Parciālsummas loceklis a(%d) = %Le\n\n", k, a);
 return S;
 }
