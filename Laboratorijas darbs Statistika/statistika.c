@@ -7,7 +7,6 @@
 ▶ modas(u) vērtību(as) (saskaņā ar ASCII skaitļiem)
 ▶ sakārtoto simbolu rindu vienā rindā un atbilstošus ASCII skaitļus nākamajā rindā
 rindas kārtošana alfabēta secībā - A, B, C, ..., a, b, c, ... (saskaņā ar ASCII skaitļiem)
-
 */
 #include <stdio.h>
 #include <string.h>
